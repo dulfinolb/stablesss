@@ -9,6 +9,8 @@ A1111_DIR=${WORKSPACE}/stable-diffusion-webui
 EXTENSIONS=(
     "https://github.com/gutris1/sd-hub.git"
     "https://github.com/Mikubill/sd-webui-controlnet.git"
+    "https://github.com/hako-mikan/sd-webui-regional-prompter.git"
+    "https://github.com/Bing-su/adetailer.git"
 )
 
 # CHECKPOINT_MODELS (Modelos principales .safetensors)
